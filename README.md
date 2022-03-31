@@ -65,6 +65,10 @@ UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220331T200000&p
 to [21:00
 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220331T140000&p1=179))
 
+-   Choose a dataset from [Tidy
+    Tuesday](https://github.com/rfordatascience/tidytuesday)
+-   Set up the app UI
+
 ### Day 2
 
 Basic Patterns ([14:00
@@ -85,6 +89,9 @@ Work on the Class App ([20:00
 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220401T200000&p1=179)
 to [21:00
 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220401T210000&p1=179))
+
+-   Add a user-customisable data visualisation
+-   Add a user question to write to a googlesheet
 
 ### Day 3
 
