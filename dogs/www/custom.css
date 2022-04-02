@@ -1,1 +1,9 @@
 /* app-specific css */
+
+.dog_class { color: var(--purple); }
+
+.shiny-plot-output {
+  padding: 5px;
+  background-color: var(--purple);
+}
+
